@@ -13,6 +13,7 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my);
     }
+//segundo commit
 
 
 
